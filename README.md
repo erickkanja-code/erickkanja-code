@@ -7,8 +7,8 @@ I'm Erick Kanja, a tech enthusiast diving into software engineering.🚀
 - Stellar Blockchain Ambassador, focusing on Developer Relations and exploring the future of decentralized finance 🔗💰
 
 🛠️ Skills & Tools
-- Languages: JavaScript, Typescript, HTML/CSS, Tailwind CSS, Python/Django(learning), SQL
-- Frameworks & Libraries: React.js, Frappe Framework (learning)
+- Languages: JavaScript, Typescript, HTML/CSS, Tailwind CSS, Next Js(learning) Python/Django(learning), SQL
+- Frameworks & Libraries: React, Vue, Frappe Framework (learning)
 - Other: Version Control with Git/Github
 
 
